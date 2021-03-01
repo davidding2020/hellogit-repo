@@ -11,7 +11,11 @@ public class Hello {
       System.out.println("change after other clone, user1 update,  Hello, world from GIT!");
 System.out.println("change 1");
 System.out.println("change 2");
+<<<<<<< HEAD
 System.out.println("merge test, add to master");
+=======
+System.out.println("merge change in devel");
+>>>>>>> devel
       
 >>>>>>> ea28694c0deb0a300d026b82d1a2172bf0739a7f
    }
