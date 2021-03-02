@@ -4,3 +4,4 @@
 
 add feauture copy
 just fix
+add news
