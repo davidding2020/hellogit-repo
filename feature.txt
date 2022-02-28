@@ -1,7 +1,2 @@
-"add featuer" 
-
-<feater add by me
-
-add feauture copy
-just fix
-add news
+"after fork" 
+pull request test
